@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BookBuddyReact/static/css/main.56ce318f.css",
+    "main.js": "/BookBuddyReact/static/js/main.5c1ae4a0.js",
+    "static/js/787.fb265414.chunk.js": "/BookBuddyReact/static/js/787.fb265414.chunk.js",
+    "static/media/Java.jpg": "/BookBuddyReact/static/media/Java.65cb7e1c7670def0514e.jpg",
+    "static/media/wp.jpg": "/BookBuddyReact/static/media/wp.40c696bd5ae8dd0e290e.jpg",
+    "static/media/main.jpg": "/BookBuddyReact/static/media/main.fd75847fcdd279e9ec9f.jpg",
+    "static/media/slick.svg": "/BookBuddyReact/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BookBuddyReact/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BookBuddyReact/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/BookBuddyReact/index.html",
+    "static/media/slick.woff": "/BookBuddyReact/static/media/slick.295183786cd8a1389865.woff",
+    "main.56ce318f.css.map": "/BookBuddyReact/static/css/main.56ce318f.css.map",
+    "main.5c1ae4a0.js.map": "/BookBuddyReact/static/js/main.5c1ae4a0.js.map",
+    "787.fb265414.chunk.js.map": "/BookBuddyReact/static/js/787.fb265414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ce318f.css",
+    "static/js/main.5c1ae4a0.js"
+  ]
+}
