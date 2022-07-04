@@ -14,7 +14,7 @@ export default function ImagePage() {
      //const [val,setVal]=useState(false);    
      const fun2=()=>{
         var req=new XMLHttpRequest();
-        req.open("POST","http://bookbuddyitfetch.epizy.com/Quze/jsonsearch.php?search="+searchdata+"",true);
+        req.open("POST","https://bookbuddyitfetch.epizy.com/Quze/jsonsearch.php?search="+searchdata+"",true);
             
         
         
